@@ -144,24 +144,6 @@ Além de reforçar o uso do Pandas para manipulação de dados, o projeto contri
 
 ---
 
-## ▶️ Como Executar
-
-### Instalar as dependências
-
-```bash
-pip install -r requirements.txt
-```
-
-### Executar o notebook
-
-```bash
-jupyter notebook
-```
-
-Abra o notebook do projeto e execute todas as células na ordem apresentada.
-
----
-
 ## 📌 Resultado Final
 
 Ao final do desafio foi produzido um dataset:
