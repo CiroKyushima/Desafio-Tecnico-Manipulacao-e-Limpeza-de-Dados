@@ -31,31 +31,6 @@ Ao final do processo, o objetivo era gerar um dataset limpo, consistente e pront
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```text
-desafio-pandas-limpeza-dados/
-│
-├── data/
-│   ├── livros.html
-│   ├── dados_financeiros.csv
-│   └── output/
-│       └── dataset_tratado.csv
-│
-├── notebook/
-│   └── desafio_sprint2.ipynb
-│
-├── imagens/
-│   ├── antes_tratamento.png
-│   └── resultado_final.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 🔄 Etapas Desenvolvidas
 
 ### 1. Ingestão dos Dados
