@@ -1,0 +1,21 @@
+transaction_id,date,description,amount,category,status,account
+TXN001,2024-01-05,"Netflix Subscription - Entertainment",$29.90,Entertainment,Completed,ACC-01
+TXN002,05/01/2024,"Uber Trip - Transport","R$ 45,00",Transport,completed,ACC-01
+TXN003,2024/01/06,"Salary Payment - Income","5000",Income,Completed,ACC-01
+TXN004,2024-01-07,"Amazon Purchase - Shopping","-$120.45",Shopping,Completed,ACC-01
+TXN005,07-01-2024,"Groceries - Supermarket","R$ 320,10",Food,Completed,ACC-01
+TXN006,2024-01-08,"Gym Membership - Health","N/A",Health,Pending,ACC-01
+TXN007,2024-01-08,"Gym Membership - Health","N/A",Health,Pending,ACC-01
+TXN008,2024-01-09,"Electricity Bill - Utilities","$-150.75",Utilities,Completed,ACC-02
+TXN009,09/01/2024,"Water Bill - Utilities","$80.30",Utilities,Completed,ACC-02
+TXN010,2024-01-10,"Transfer to Savings - Transfer","-1000",Transfer,Completed,ACC-01
+TXN011,2024-01-10,"Transfer from Checking - Transfer","1000",Transfer,Completed,ACC-02
+TXN012,2024-01-11,"iFood Delivery - Food","R$ 89,99",Food,Completed,ACC-01
+TXN013,11/01/2024,"Restaurant Dinner - Food","$120.00",Food,completed,ACC-01
+TXN014,2024-01-12,"Spotify Subscription - Entertainment","$19.90",Entertainment,Completed,ACC-01
+TXN015,2024-01-12,"Spotify Subscription - Entertainment","$19.90",Entertainment,Completed,ACC-01
+TXN016,2024/01/13,"Freelance Payment - Income","2500.00",Income,Completed,ACC-01
+TXN017,13-01-2024,"Taxi Ride - Transport","$35,5",Transport,Completed,ACC-01
+TXN018,, "Unknown Transaction","-",Unknown,Pending,ACC-03
+TXN019,2024-01-14,"Loan Payment - Finance","-$800.00",Finance,Completed,ACC-01
+TXN020,2024-01-15,"Book Purchase - Education","$45.00",Education,Completed,ACC-01
