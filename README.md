@@ -160,14 +160,3 @@ Ao final do desafio foi produzido um dataset:
 
 ---
 
-## 👨‍💻 Autor
-
-**Ciro Kyushima**
-
-Graduando em Engenharia de Computação e entusiasta da área de Dados, com foco em Análise de Dados, Engenharia de Dados e Inteligência Artificial.
-
-📧 Adicione aqui seu contato
-
-🔗 Adicione aqui seu LinkedIn
-
-🐙 Adicione aqui seu GitHub
